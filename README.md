@@ -6,20 +6,26 @@ An AI-powered data cleaning assistant built with Python, Pandas, Streamlit, and 
 
 [Open the Live Application](https://ai-data-cleaning-assistant-05.streamlit.app/)
 
+### Problem
+Real-world datasets frequently contain missing values, duplicate records, inconsistent formats and anomalous values.
+
+### Solution
+A Python-based application that automatically analyzes and cleans datasets while providing data-quality recommendations and downloadable results.
+
 The application allows users to upload CSV datasets, analyze their data quality, identify common data problems, receive cleaning recommendations, clean the dataset, and download the cleaned result.
 
 ---
 
 # Features
 
-# Dataset Upload
+### Dataset Upload
 
 - Upload CSV files through the Streamlit interface
 - Validate uploaded datasets
 - Handle empty or invalid CSV files
 - Preview uploaded datasets
 
-# Data Analysis
+### Data Analysis
 
 The application analyzes datasets for:
 
@@ -31,7 +37,7 @@ The application analyzes datasets for:
 - Invalid marks
 - Dataset structure and information
 
-# Data Cleaning
+### Data Cleaning
 
 The application can identify and handle common data quality problems, including:
 
@@ -41,23 +47,23 @@ The application can identify and handle common data quality problems, including:
 - Invalid values
 - Inconsistent data
 
-# AI Recommendations
+### AI Recommendations
 
 The application provides recommendations based on the problems detected in the dataset.
 
-# Machine Learning
+### Machine Learning
 
 Machine learning techniques are used to assist with anomaly detection in datasets.
 
-# Data Quality Score
+### Data Quality Score
 
 The application calculates a data quality score to help users understand the overall quality of their dataset.
 
-# Quality Reports
+### Quality Reports
 
 The application provides information about the dataset before and after cleaning.
 
-# Download
+### Download
 
 Users can download the cleaned dataset for further use.
 
