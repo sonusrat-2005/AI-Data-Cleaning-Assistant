@@ -2,6 +2,10 @@
 
 An AI-powered data cleaning assistant built with Python, Pandas, Streamlit, and Machine Learning.
 
+# Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](ai-data-cleaning-assistant-05.streamlit.app)
+
 The application allows users to upload CSV datasets, analyze their data quality, identify common data problems, receive cleaning recommendations, clean the dataset, and download the cleaned result.
 
 ---
