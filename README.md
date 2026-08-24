@@ -6,6 +6,8 @@ An AI-powered data cleaning assistant built with Python, Pandas, Streamlit, and 
 
 [Open the Live Application](https://ai-data-cleaning-assistant-05.streamlit.app/)
 
+> **Note:** The free Streamlit Community Cloud deployment may sleep after periods of inactivity. If you see a "Zzzz" screen, click **"Yes, get this app back up!"** to wake the application.
+
 ### Problem
 Real-world datasets frequently contain missing values, duplicate records, inconsistent formats and anomalous values.
 
